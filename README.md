@@ -1,4 +1,4 @@
-# Social Media Influencer Impact and Engagement Analysis
+# influencer-market-analysis
 
 ## 1. Problem Statement
 To analyze social media influencer marketing trends, engagement rates, influencer tiers, and business impact using data analysis and visualization.
